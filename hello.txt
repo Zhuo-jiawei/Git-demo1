@@ -11,3 +11,4 @@ hello zjw,hello git!
 hello zjw,hello git! master-test
 hello zjw,hello git!              master-test2
 hello zjw,hello git! hot-fix test
+hello zjw,hello git! hot-fix test
