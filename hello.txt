@@ -9,5 +9,5 @@ hello zjw,hello git!
 hello zjw,hello git!
 hello zjw,hello git!
 hello zjw,hello git!
-hello zjw,hello git!
+hello zjw,hello git! hot-fix test
 hello zjw,hello git! hot-fix test
